@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx nodemon ./src/app.js"
   },
   "keywords": [
-    "number_system_converter",
-    "start":"npx nodemon ./src/app.js"
+    "number_system_converter"
   ],
   "author": "RAKESH, Sayanti, Rajesh",
   "license": "ISC",
