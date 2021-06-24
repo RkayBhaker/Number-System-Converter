@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "number_system_converter"
+    "number_system_converter",
+    "start":"npx nodemon ./src/app.js"
   ],
   "author": "RAKESH, Sayanti, Rajesh",
   "license": "ISC",
